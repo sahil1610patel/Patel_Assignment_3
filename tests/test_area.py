@@ -14,4 +14,4 @@ def test_calculate_area_square_list():
         calculate_area_square([2])
 
 def test_calculate_area_square_valid():
-    assert calculate_area_square(27) == 1000
+    assert calculate_area_square(27) == 729
